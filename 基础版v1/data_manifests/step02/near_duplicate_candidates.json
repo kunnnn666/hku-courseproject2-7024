@@ -1,0 +1,1160 @@
+[
+  {
+    "a": "BSDS300_101085",
+    "b": "BSDS300_101087",
+    "phash_distance": 26,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_108005",
+    "b": "BSDS300_108070",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_108005",
+    "b": "BSDS300_108082",
+    "phash_distance": 28,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_108070",
+    "b": "BSDS300_108082",
+    "phash_distance": 40,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_148026",
+    "b": "BSDS300_148089",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_167062",
+    "b": "BSDS300_167083",
+    "phash_distance": 36,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_175032",
+    "b": "BSDS300_175043",
+    "phash_distance": 36,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_241004",
+    "b": "BSDS300_241048",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_253027",
+    "b": "BSDS300_253055",
+    "phash_distance": 28,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_296007",
+    "b": "BSDS300_296059",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_304034",
+    "b": "BSDS300_304074",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_38082",
+    "b": "BSDS300_38092",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_41033",
+    "b": "BSDS300_41069",
+    "phash_distance": 28,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_42012",
+    "b": "BSDS300_42049",
+    "phash_distance": 34,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_69015",
+    "b": "BSDS300_69020",
+    "phash_distance": 28,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_69015",
+    "b": "BSDS300_69040",
+    "phash_distance": 26,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_69020",
+    "b": "BSDS300_69040",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_86000",
+    "b": "BSDS300_86016",
+    "phash_distance": 38,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_86000",
+    "b": "BSDS300_86068",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_86016",
+    "b": "BSDS300_86068",
+    "phash_distance": 34,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_100075",
+    "b": "BSDS300_100080",
+    "phash_distance": 28,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_100075",
+    "b": "BSDS300_100098",
+    "phash_distance": 36,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_100080",
+    "b": "BSDS300_100098",
+    "phash_distance": 28,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_103070",
+    "b": "BSDS300_103041",
+    "phash_distance": 26,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_105025",
+    "b": "BSDS300_105019",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_105025",
+    "b": "BSDS300_105053",
+    "phash_distance": 34,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_105019",
+    "b": "BSDS300_105053",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_106024",
+    "b": "BSDS300_106020",
+    "phash_distance": 36,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_106024",
+    "b": "BSDS300_106025",
+    "phash_distance": 26,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_106020",
+    "b": "BSDS300_106025",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_108005",
+    "b": "BSDS300_108041",
+    "phash_distance": 26,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_108070",
+    "b": "BSDS300_108041",
+    "phash_distance": 34,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_108082",
+    "b": "BSDS300_108041",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_108005",
+    "b": "BSDS300_108073",
+    "phash_distance": 26,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_108070",
+    "b": "BSDS300_108073",
+    "phash_distance": 40,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_108082",
+    "b": "BSDS300_108073",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_108041",
+    "b": "BSDS300_108073",
+    "phash_distance": 28,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_109053",
+    "b": "BSDS300_109034",
+    "phash_distance": 36,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_113009",
+    "b": "BSDS300_113016",
+    "phash_distance": 28,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_113009",
+    "b": "BSDS300_113044",
+    "phash_distance": 34,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_113016",
+    "b": "BSDS300_113044",
+    "phash_distance": 36,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_118020",
+    "b": "BSDS300_118035",
+    "phash_distance": 36,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_12084",
+    "b": "BSDS300_12003",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_12084",
+    "b": "BSDS300_12074",
+    "phash_distance": 28,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_12003",
+    "b": "BSDS300_12074",
+    "phash_distance": 24,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_126007",
+    "b": "BSDS300_126039",
+    "phash_distance": 38,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_130026",
+    "b": "BSDS300_130034",
+    "phash_distance": 34,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_134035",
+    "b": "BSDS300_134008",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_134035",
+    "b": "BSDS300_134052",
+    "phash_distance": 28,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_134008",
+    "b": "BSDS300_134052",
+    "phash_distance": 36,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_135037",
+    "b": "BSDS300_135069",
+    "phash_distance": 36,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_138032",
+    "b": "BSDS300_138078",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_140055",
+    "b": "BSDS300_140075",
+    "phash_distance": 24,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_145086",
+    "b": "BSDS300_145014",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_145086",
+    "b": "BSDS300_145053",
+    "phash_distance": 34,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_145014",
+    "b": "BSDS300_145053",
+    "phash_distance": 40,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_147091",
+    "b": "BSDS300_147021",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_147091",
+    "b": "BSDS300_147062",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_147021",
+    "b": "BSDS300_147062",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_15004",
+    "b": "BSDS300_15088",
+    "phash_distance": 34,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_153077",
+    "b": "BSDS300_153093",
+    "phash_distance": 34,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_156065",
+    "b": "BSDS300_156079",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_157055",
+    "b": "BSDS300_157036",
+    "phash_distance": 36,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_159008",
+    "b": "BSDS300_159029",
+    "phash_distance": 42,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_159008",
+    "b": "BSDS300_159045",
+    "phash_distance": 28,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_159029",
+    "b": "BSDS300_159045",
+    "phash_distance": 28,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_159008",
+    "b": "BSDS300_159091",
+    "phash_distance": 40,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_159029",
+    "b": "BSDS300_159091",
+    "phash_distance": 26,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_159045",
+    "b": "BSDS300_159091",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_16077",
+    "b": "BSDS300_16052",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_163085",
+    "b": "BSDS300_163014",
+    "phash_distance": 38,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_163085",
+    "b": "BSDS300_163062",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_163014",
+    "b": "BSDS300_163062",
+    "phash_distance": 28,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_170057",
+    "b": "BSDS300_170054",
+    "phash_distance": 28,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_176019",
+    "b": "BSDS300_176035",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_176019",
+    "b": "BSDS300_176039",
+    "phash_distance": 20,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_176035",
+    "b": "BSDS300_176039",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_181018",
+    "b": "BSDS300_181079",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_181018",
+    "b": "BSDS300_181091",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_181079",
+    "b": "BSDS300_181091",
+    "phash_distance": 28,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_183055",
+    "b": "BSDS300_183087",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_187003",
+    "b": "BSDS300_187029",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_187003",
+    "b": "BSDS300_187039",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_187029",
+    "b": "BSDS300_187039",
+    "phash_distance": 34,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_187003",
+    "b": "BSDS300_187071",
+    "phash_distance": 34,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_187029",
+    "b": "BSDS300_187071",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_187039",
+    "b": "BSDS300_187071",
+    "phash_distance": 20,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_187003",
+    "b": "BSDS300_187083",
+    "phash_distance": 36,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_187029",
+    "b": "BSDS300_187083",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_187039",
+    "b": "BSDS300_187083",
+    "phash_distance": 24,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_187071",
+    "b": "BSDS300_187083",
+    "phash_distance": 24,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_188005",
+    "b": "BSDS300_188063",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_188005",
+    "b": "BSDS300_188091",
+    "phash_distance": 28,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_188063",
+    "b": "BSDS300_188091",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_189080",
+    "b": "BSDS300_189003",
+    "phash_distance": 34,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_189080",
+    "b": "BSDS300_189011",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_189003",
+    "b": "BSDS300_189011",
+    "phash_distance": 38,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_196073",
+    "b": "BSDS300_196015",
+    "phash_distance": 28,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_198004",
+    "b": "BSDS300_198023",
+    "phash_distance": 36,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_198004",
+    "b": "BSDS300_198054",
+    "phash_distance": 24,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_198023",
+    "b": "BSDS300_198054",
+    "phash_distance": 28,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_216081",
+    "b": "BSDS300_216041",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_216081",
+    "b": "BSDS300_216053",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_216041",
+    "b": "BSDS300_216053",
+    "phash_distance": 34,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_216081",
+    "b": "BSDS300_216066",
+    "phash_distance": 38,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_216041",
+    "b": "BSDS300_216066",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_216053",
+    "b": "BSDS300_216066",
+    "phash_distance": 26,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_22013",
+    "b": "BSDS300_22090",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_22013",
+    "b": "BSDS300_22093",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_22090",
+    "b": "BSDS300_22093",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_227092",
+    "b": "BSDS300_227040",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_227092",
+    "b": "BSDS300_227046",
+    "phash_distance": 36,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_227040",
+    "b": "BSDS300_227046",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_23025",
+    "b": "BSDS300_23080",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_23025",
+    "b": "BSDS300_23084",
+    "phash_distance": 24,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_23080",
+    "b": "BSDS300_23084",
+    "phash_distance": 36,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_236037",
+    "b": "BSDS300_236017",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_239007",
+    "b": "BSDS300_239096",
+    "phash_distance": 38,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_24077",
+    "b": "BSDS300_24004",
+    "phash_distance": 38,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_24077",
+    "b": "BSDS300_24063",
+    "phash_distance": 38,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_24004",
+    "b": "BSDS300_24063",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_246016",
+    "b": "BSDS300_246053",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_249061",
+    "b": "BSDS300_249087",
+    "phash_distance": 40,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_253027",
+    "b": "BSDS300_253036",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_253055",
+    "b": "BSDS300_253036",
+    "phash_distance": 28,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_254033",
+    "b": "BSDS300_254054",
+    "phash_distance": 34,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_260058",
+    "b": "BSDS300_260081",
+    "phash_distance": 28,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_271035",
+    "b": "BSDS300_271008",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_271035",
+    "b": "BSDS300_271031",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_271008",
+    "b": "BSDS300_271031",
+    "phash_distance": 34,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_28075",
+    "b": "BSDS300_28096",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_285079",
+    "b": "BSDS300_285036",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_299086",
+    "b": "BSDS300_299091",
+    "phash_distance": 26,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_302008",
+    "b": "BSDS300_302003",
+    "phash_distance": 28,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_311068",
+    "b": "BSDS300_311081",
+    "phash_distance": 26,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_33039",
+    "b": "BSDS300_33066",
+    "phash_distance": 36,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_35008",
+    "b": "BSDS300_35010",
+    "phash_distance": 34,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_35008",
+    "b": "BSDS300_35058",
+    "phash_distance": 40,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_35010",
+    "b": "BSDS300_35058",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_35008",
+    "b": "BSDS300_35070",
+    "phash_distance": 36,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_35010",
+    "b": "BSDS300_35070",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_35058",
+    "b": "BSDS300_35070",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_35008",
+    "b": "BSDS300_35091",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_35010",
+    "b": "BSDS300_35091",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_35058",
+    "b": "BSDS300_35091",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_35070",
+    "b": "BSDS300_35091",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_361010",
+    "b": "BSDS300_361084",
+    "phash_distance": 26,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_365025",
+    "b": "BSDS300_365073",
+    "phash_distance": 26,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_368016",
+    "b": "BSDS300_368078",
+    "phash_distance": 34,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_374020",
+    "b": "BSDS300_374067",
+    "phash_distance": 24,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_376043",
+    "b": "BSDS300_376001",
+    "phash_distance": 26,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_376043",
+    "b": "BSDS300_376020",
+    "phash_distance": 26,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_376001",
+    "b": "BSDS300_376020",
+    "phash_distance": 36,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_385039",
+    "b": "BSDS300_385028",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_41033",
+    "b": "BSDS300_41004",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_41069",
+    "b": "BSDS300_41004",
+    "phash_distance": 28,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_41033",
+    "b": "BSDS300_41025",
+    "phash_distance": 28,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_41069",
+    "b": "BSDS300_41025",
+    "phash_distance": 34,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_41004",
+    "b": "BSDS300_41025",
+    "phash_distance": 28,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_42012",
+    "b": "BSDS300_42044",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_42049",
+    "b": "BSDS300_42044",
+    "phash_distance": 28,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_42012",
+    "b": "BSDS300_42078",
+    "phash_distance": 26,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_42049",
+    "b": "BSDS300_42078",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_42044",
+    "b": "BSDS300_42078",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_43074",
+    "b": "BSDS300_43070",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_43074",
+    "b": "BSDS300_43083",
+    "phash_distance": 36,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_43070",
+    "b": "BSDS300_43083",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_45096",
+    "b": "BSDS300_45077",
+    "phash_distance": 34,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_54082",
+    "b": "BSDS300_54005",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_55073",
+    "b": "BSDS300_55067",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_55073",
+    "b": "BSDS300_55075",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_55067",
+    "b": "BSDS300_55075",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_61060",
+    "b": "BSDS300_61086",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_65033",
+    "b": "BSDS300_65010",
+    "phash_distance": 26,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_65033",
+    "b": "BSDS300_65019",
+    "phash_distance": 28,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_65010",
+    "b": "BSDS300_65019",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_65033",
+    "b": "BSDS300_65074",
+    "phash_distance": 34,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_65010",
+    "b": "BSDS300_65074",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_65019",
+    "b": "BSDS300_65074",
+    "phash_distance": 34,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_65033",
+    "b": "BSDS300_65132",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_65010",
+    "b": "BSDS300_65132",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_65019",
+    "b": "BSDS300_65132",
+    "phash_distance": 28,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_65074",
+    "b": "BSDS300_65132",
+    "phash_distance": 36,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_66053",
+    "b": "BSDS300_66039",
+    "phash_distance": 24,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_66053",
+    "b": "BSDS300_66075",
+    "phash_distance": 28,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_66039",
+    "b": "BSDS300_66075",
+    "phash_distance": 34,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_76053",
+    "b": "BSDS300_76002",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_78004",
+    "b": "BSDS300_78019",
+    "phash_distance": 30,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_8023",
+    "b": "BSDS300_8049",
+    "phash_distance": 28,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_8023",
+    "b": "BSDS300_8143",
+    "phash_distance": 36,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_8049",
+    "b": "BSDS300_8143",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_87046",
+    "b": "BSDS300_87065",
+    "phash_distance": 32,
+    "same_prefix": true
+  },
+  {
+    "a": "BSDS300_97033",
+    "b": "BSDS300_97017",
+    "phash_distance": 28,
+    "same_prefix": true
+  }
+]

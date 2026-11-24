@@ -1,0 +1,16 @@
+{
+  "width": 540,
+  "height": 960,
+  "fx": 831.3843876330611,
+  "fy": 831.3843876330611,
+  "cx": 269.5,
+  "cy": 479.5,
+  "distortion": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "assumption": "Fixed pre-test 60-deg long-edge (vertical portrait) FOV, square pixels, centered principal point, zero distortion; consistent with Video 1 (960x540)."
+}

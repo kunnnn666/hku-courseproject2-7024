@@ -1,0 +1,83 @@
+{
+  "phone1": {
+    "id": "phone1",
+    "label": "自录手机单目视频 1",
+    "res_spec": "1920×1080 横屏 @ 30fps",
+    "frames": 541,
+    "valid_transitions": 540,
+    "failed_transitions": 0,
+    "coverage_pct": 100.0,
+    "duration_s": 18.0,
+    "path_m": 7.003,
+    "disp_m": 0.756,
+    "p95_step_cm": 3.38,
+    "max_step_cm": 7.15,
+    "infer_ms": 184.6,
+    "depth_wall_s": 222.1,
+    "vo_wall_s": 120.4,
+    "kfs": [
+      0,
+      108,
+      216,
+      324,
+      432,
+      540
+    ],
+    "depth_mp4_rel": "../results/phone_depth_full_20261102_01/depth_replay.mp4",
+    "traj_mp4_rel": "../results/phone_vo_full_20261102_01/trajectory_replay.mp4"
+  },
+  "phone2": {
+    "id": "phone2",
+    "label": "自录手机单目视频 2",
+    "res_spec": "720×1280 竖屏 @ 30fps",
+    "frames": 139,
+    "valid_transitions": 138,
+    "failed_transitions": 0,
+    "coverage_pct": 100.0,
+    "duration_s": 4.6,
+    "path_m": 4.369,
+    "disp_m": 0.898,
+    "p95_step_cm": 7.06,
+    "max_step_cm": 9.32,
+    "infer_ms": 183.1,
+    "depth_wall_s": 87.7,
+    "vo_wall_s": 55.5,
+    "kfs": [
+      0,
+      28,
+      55,
+      83,
+      110,
+      138
+    ],
+    "depth_mp4_rel": "../results/phone_depth_full_20261124_02/depth_replay.mp4",
+    "traj_mp4_rel": "../results/phone_vo_full_20261124_02/trajectory_replay.mp4"
+  },
+  "phone3": {
+    "id": "phone3",
+    "label": "自录手机单目视频 3",
+    "res_spec": "720×1280 竖屏 @ 30fps",
+    "frames": 112,
+    "valid_transitions": 111,
+    "failed_transitions": 0,
+    "coverage_pct": 100.0,
+    "duration_s": 3.7,
+    "path_m": 3.212,
+    "disp_m": 0.604,
+    "p95_step_cm": 8.04,
+    "max_step_cm": 10.12,
+    "infer_ms": 167.4,
+    "depth_wall_s": 69.5,
+    "vo_wall_s": 44.7,
+    "kfs": [
+      0,
+      22,
+      44,
+      67,
+      89,
+      111
+    ],
+    "depth_mp4_rel": "../results/phone_depth_full_20261124_03/depth_replay.mp4",
+    "traj_mp4_rel": "../results/phone_vo_full_20261124_03/trajectory_replay.mp4"
+  }
+}

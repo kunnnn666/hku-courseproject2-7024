@@ -1,0 +1,98 @@
+[
+  {
+    "data_root_key": "dev",
+    "delta_us": 14897,
+    "depth_index": 0,
+    "depth_path": "depth/1305031102.160407.png",
+    "depth_sha256": "3d2b60049ced75b1c4f468ee1ff734650e4b31ca1a535698a02a1434f41eafae",
+    "depth_timestamp": "1305031102.160407",
+    "meters": 1.1078,
+    "pair_id": "freiburg1_xyz_000000",
+    "preview_file": "dev_pair_0.png",
+    "preview_range_m": [
+      0,
+      5.0
+    ],
+    "raw_value": 5539,
+    "rgb_index": 0,
+    "rgb_path": "rgb/1305031102.175304.png",
+    "rgb_sha256": "331c3fd7a3d5eefb19e3da2026625aa221ca1991f5ae30ff96060e2e3e45e368",
+    "rgb_timestamp": "1305031102.175304",
+    "sequence": "freiburg1_xyz",
+    "u": 348,
+    "v": 269,
+    "zero_pixels": 77325
+  },
+  {
+    "data_root_key": "dev",
+    "delta_us": 4025,
+    "depth_index": 402,
+    "depth_path": "depth/1305031115.575290.png",
+    "depth_sha256": "45dfff726a566bd5ca7ef7a90edbc280b436541d92bcf394b651a634b634e4f1",
+    "depth_timestamp": "1305031115.575290",
+    "meters": 1.0132,
+    "pair_id": "freiburg1_xyz_000402",
+    "preview_file": "dev_pair_396.png",
+    "preview_range_m": [
+      0,
+      5.0
+    ],
+    "raw_value": 5066,
+    "rgb_index": 402,
+    "rgb_path": "rgb/1305031115.579315.png",
+    "rgb_sha256": "34715822f05852d1283a100c24b9c3936b56e5b97791b67d2bb8ef8e48470d13",
+    "rgb_timestamp": "1305031115.579315",
+    "sequence": "freiburg1_xyz",
+    "u": 472,
+    "v": 273,
+    "zero_pixels": 70159
+  },
+  {
+    "data_root_key": "dev",
+    "delta_us": 30,
+    "depth_index": 593,
+    "depth_path": "depth/1305031121.947318.png",
+    "depth_sha256": "e38407634fa4726ebb1c6a271c7c40ae0efd117f46631220977f293a87a0b9e4",
+    "depth_timestamp": "1305031121.947318",
+    "meters": 1.4094,
+    "pair_id": "freiburg1_xyz_000593",
+    "preview_file": "dev_pair_587.png",
+    "preview_range_m": [
+      0,
+      5.0
+    ],
+    "raw_value": 7047,
+    "rgb_index": 593,
+    "rgb_path": "rgb/1305031121.947288.png",
+    "rgb_sha256": "f0bc12f8ba9637ca2c9a898bfe52b74ce643ada6df16eecbaab6356e34d2982c",
+    "rgb_timestamp": "1305031121.947288",
+    "sequence": "freiburg1_xyz",
+    "u": 290,
+    "v": 234,
+    "zero_pixels": 98106
+  },
+  {
+    "data_root_key": "dev",
+    "delta_us": 7283,
+    "depth_index": 797,
+    "depth_path": "depth/1305031128.754646.png",
+    "depth_sha256": "26d188878ae3014ebb935d5fe1dbdf19c4c28460a25d03ff905b0f1cdab39791",
+    "depth_timestamp": "1305031128.754646",
+    "meters": 0.9026,
+    "pair_id": "freiburg1_xyz_000797",
+    "preview_file": "dev_pair_791.png",
+    "preview_range_m": [
+      0,
+      5.0
+    ],
+    "raw_value": 4513,
+    "rgb_index": 797,
+    "rgb_path": "rgb/1305031128.747363.png",
+    "rgb_sha256": "7fc3200a45135bd09da47ff5a48b272c83734932bce9ef6447ac1a4975d797d1",
+    "rgb_timestamp": "1305031128.747363",
+    "sequence": "freiburg1_xyz",
+    "u": 259,
+    "v": 278,
+    "zero_pixels": 76784
+  }
+]

@@ -1,0 +1,22 @@
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+.venv_*/
+venv/
+env/
+
+# Large raw datasets & local heavy model caches (download on demand)
+*.tar
+*.tgz
+*.tar.gz
+*.zip
+models/
+
+# OS & IDE files
+.DS_Store
+Thumbs.db
+~$*
+.vscode/
+.idea/

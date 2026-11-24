@@ -1,0 +1,32 @@
+{
+  "seed": 7024,
+  "group_rule": "numeric original image ID // 1000, union with exact/pixel/pHash duplicates; heuristic conservative source grouping",
+  "validation_group_fraction": 0.2,
+  "phash_hamming_threshold": 6,
+  "max_pair_delta_us": 20000,
+  "preview_max_m": 5.0,
+  "bsds_root": "data/raw/BSDS300-images/BSDS300/images",
+  "sequences": {
+    "dev": {
+      "name": "freiburg1_xyz",
+      "root": "E:/chatgpt/CIVL7024/rgbd_odometry_project/data/rgbd_dataset_freiburg1_xyz",
+      "calibration_group": "Freiburg 1",
+      "K": [525.0, 525.0, 319.5, 239.5],
+      "published_rgb_K": [517.3, 516.5, 318.6, 255.3],
+      "published_distortion": [0.2624, -0.9531, -0.0054, 0.0026, 1.1633],
+      "policy": "官方建议预配准深度使用 ROS 默认内参，不额外去畸变；保留标定值供后续总控审查"
+    },
+    "test": {
+      "name": "freiburg3_structure_texture_far",
+      "root": "data/raw/rgbd_dataset_freiburg3_structure_texture_far/rgbd_dataset_freiburg3_structure_texture_far",
+      "calibration_group": "Freiburg 3",
+      "K": [535.4, 539.2, 320.1, 247.6],
+      "published_rgb_K": [535.4, 539.2, 320.1, 247.6],
+      "published_distortion": [0, 0, 0, 0, 0],
+      "policy": "使用官方 Freiburg 3 RGB 内参；官方已去畸变，不再次去畸变"
+    }
+  },
+  "depth_units_per_m": 5000,
+  "invalid_depth_raw": 0,
+  "format_source": "https://cvg.cit.tum.de/data/datasets/rgbd-dataset/file_formats"
+}

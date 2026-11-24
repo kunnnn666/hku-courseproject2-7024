@@ -1,0 +1,11 @@
+{
+  "status": "completed",
+  "reason": "",
+  "requested_frames": 0,
+  "attempted_frames": 541,
+  "estimated_poses": 541,
+  "successful_transitions": 540,
+  "failed_transitions": 0,
+  "wall_before_render_s": 120.43353039998328,
+  "accuracy": "not established; no reference trajectory used in this interface demonstration"
+}

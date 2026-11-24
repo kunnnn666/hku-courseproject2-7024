@@ -1,0 +1,7 @@
+{
+  "base_seed": 7024,
+  "sigmas_8bit": [10, 25, 50],
+  "filter": {"size": 7, "sigma_px": 1.0, "boundary": "reflect101"},
+  "demo": {"sample_id": "BSDS300_100075", "split": "train", "sigma_8bit": 25},
+  "manifest_directory": "data/manifests/step02"
+}

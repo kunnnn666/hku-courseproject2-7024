@@ -1,0 +1,41 @@
+{
+  "phase": "F-07",
+  "status": "frozen_pending_review",
+  "run": "E:\\chatgpt\\CIVL7024\\project\\project2_2.0\\runs\\F07_formal_1e83427522",
+  "checkpoints": {
+    "best": {
+      "path": "E:\\chatgpt\\CIVL7024\\project\\project2_2.0\\runs\\F07_formal_1e83427522\\best.pt",
+      "sha256": "e0cf08379bedab833a034c4e8c3709ebe71b6333f1314b3b1ba645f4ae877cbb",
+      "step": 6000
+    },
+    "last": {
+      "path": "E:\\chatgpt\\CIVL7024\\project\\project2_2.0\\runs\\F07_formal_1e83427522\\last.pt",
+      "sha256": "90e2cf6ef21537f360fb479401dbf374b094a05c3845953084c7acb7649b0c16",
+      "step": 10000
+    }
+  },
+  "config": {
+    "path": "E:\\chatgpt\\CIVL7024\\project\\project2_2.0\\runs\\F07_formal_1e83427522\\config.json",
+    "sha256": "2d719606d12618240140a23d2f764f0bc7ceb932d1fdb9f19b2aafcf1272f2b1"
+  },
+  "data": {
+    "E:\\chatgpt\\CIVL7024\\project\\project2_2.0\\data\\manifests\\step02\\images_train.jsonl": "09f9a4778b9884f081aad985f23bfa363cd6417d2bc27ddef16b73a44800e758",
+    "E:\\chatgpt\\CIVL7024\\project\\project2_2.0\\data\\manifests\\step02\\images_val.jsonl": "cafab3896efb8a72d7bcb762f9e691118da5f720199647a885749ecb16faa2b4",
+    "E:\\chatgpt\\CIVL7024\\project\\project2_2.0\\data\\manifests\\step02\\roots_and_cameras.json": "8fdf02eadad3bb4ea327420bef78e4949972b9968aef81758bd905b42e6aaeba"
+  },
+  "code": {
+    "E:\\chatgpt\\CIVL7024\\project\\project2_2.0\\scripts\\train_step07.py": "d3bfd4fa50cc5b0644a023c6422e97a291de673e523ef969a5e990c4cbfd9f22",
+    "E:\\chatgpt\\CIVL7024\\project\\project2_2.0\\scripts\\train_step06.py": "0236c60395118318ffbdce94314487c29f9d8ec301e7a26b457b52db995fde2b",
+    "E:\\chatgpt\\CIVL7024\\project\\project2_2.0\\src\\denoiser.py": "2ad6c59c4439d39b970052fde8941b51e772de51068dfc9e1c4f0c58e3d45b04",
+    "E:\\chatgpt\\CIVL7024\\project\\project2_2.0\\src\\denoise_data.py": "75fc3011a4ae2b7fe7b11154f25b0084cf7a91b222b15e4b5238121996dcb033",
+    "E:\\chatgpt\\CIVL7024\\project\\project2_2.0\\src\\image_baseline.py": "9234132ec2dfb685d2bcb9d3a1262f06d6a4d6d4a346b53b94f5694a3d7003a4"
+  },
+  "acceptance": [
+    "E:\\chatgpt\\CIVL7024\\project\\project2_2.0\\runs\\F07_audit_6493ba7cec",
+    "E:\\chatgpt\\CIVL7024\\project\\project2_2.0\\runs\\F07_infer_71c7e61349",
+    "E:\\chatgpt\\CIVL7024\\project\\project2_2.0\\runs\\F07_audit_8323a53070",
+    "E:\\chatgpt\\CIVL7024\\project\\project2_2.0\\runs\\F07_infer_f8e2071d1f",
+    "E:\\chatgpt\\CIVL7024\\project\\project2_2.0\\runs\\F07_infer_ff6272288d",
+    "E:\\chatgpt\\CIVL7024\\project\\project2_2.0\\runs\\F07_infer_204d8d72c9"
+  ]
+}

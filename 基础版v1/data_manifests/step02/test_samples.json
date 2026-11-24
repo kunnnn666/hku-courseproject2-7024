@@ -1,0 +1,98 @@
+[
+  {
+    "data_root_key": "test",
+    "delta_us": 26,
+    "depth_index": 0,
+    "depth_path": "depth/1341839113.657663.png",
+    "depth_sha256": "5fbfe56ae6157de51801c546bc5670b9d70c3df192943c903891711a527f8187",
+    "depth_timestamp": "1341839113.657663",
+    "meters": 2.68,
+    "pair_id": "freiburg3_structure_texture_far_000000",
+    "preview_file": "test_pair_0.png",
+    "preview_range_m": [
+      0,
+      5.0
+    ],
+    "raw_value": 13400,
+    "rgb_index": 0,
+    "rgb_path": "rgb/1341839113.657637.png",
+    "rgb_sha256": "275d7fc22ec0fe0628e961a85db54fad2ad1003bc984feeb21c76848f650792a",
+    "rgb_timestamp": "1341839113.657637",
+    "sequence": "freiburg3_structure_texture_far",
+    "u": 96,
+    "v": 242,
+    "zero_pixels": 39813
+  },
+  {
+    "data_root_key": "test",
+    "delta_us": 11,
+    "depth_index": 453,
+    "depth_path": "depth/1341839129.445529.png",
+    "depth_sha256": "3ed2ebe15fc0a1f33215d289709d7ebd72461142ec659973d293c815fb0b229e",
+    "depth_timestamp": "1341839129.445529",
+    "meters": 2.432,
+    "pair_id": "freiburg3_structure_texture_far_000470",
+    "preview_file": "test_pair_453.png",
+    "preview_range_m": [
+      0,
+      5.0
+    ],
+    "raw_value": 12160,
+    "rgb_index": 470,
+    "rgb_path": "rgb/1341839129.445518.png",
+    "rgb_sha256": "ad4193e01e8d23e516cfe301be754e0d8ecc119b3bdfb3221648aec09bcbb487",
+    "rgb_timestamp": "1341839129.445518",
+    "sequence": "freiburg3_structure_texture_far",
+    "u": 211,
+    "v": 244,
+    "zero_pixels": 41590
+  },
+  {
+    "data_root_key": "test",
+    "delta_us": 685,
+    "depth_index": 892,
+    "depth_path": "depth/1341839144.594287.png",
+    "depth_sha256": "bd588727c55e05af4e46fdb86fc3027b2ecdd90f3014e055e21d11e939c0bbec",
+    "depth_timestamp": "1341839144.594287",
+    "meters": 1.529,
+    "pair_id": "freiburg3_structure_texture_far_000916",
+    "preview_file": "test_pair_886.png",
+    "preview_range_m": [
+      0,
+      5.0
+    ],
+    "raw_value": 7645,
+    "rgb_index": 916,
+    "rgb_path": "rgb/1341839144.593602.png",
+    "rgb_sha256": "1a88a61a055f5252a9dfaf8578ed32bc0d61e0665417aa0ff671f1c89a49481a",
+    "rgb_timestamp": "1341839144.593602",
+    "sequence": "freiburg3_structure_texture_far",
+    "u": 175,
+    "v": 257,
+    "zero_pixels": 58677
+  },
+  {
+    "data_root_key": "test",
+    "delta_us": 31,
+    "depth_index": 913,
+    "depth_path": "depth/1341839145.329622.png",
+    "depth_sha256": "223201090a5011e6a67ee86def586869060353066908755fa206276a10759e15",
+    "depth_timestamp": "1341839145.329622",
+    "meters": 1.509,
+    "pair_id": "freiburg3_structure_texture_far_000937",
+    "preview_file": "test_pair_906.png",
+    "preview_range_m": [
+      0,
+      5.0
+    ],
+    "raw_value": 7545,
+    "rgb_index": 937,
+    "rgb_path": "rgb/1341839145.329591.png",
+    "rgb_sha256": "acb67375d38b9a8b28b3068a9edd66a85d32d4f8f019f4897ad05c46393031f0",
+    "rgb_timestamp": "1341839145.329591",
+    "sequence": "freiburg3_structure_texture_far",
+    "u": 181,
+    "v": 253,
+    "zero_pixels": 52839
+  }
+]

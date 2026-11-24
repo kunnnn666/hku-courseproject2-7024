@@ -1,0 +1,66 @@
+{
+  "provenance": {
+    "model": "Depth Anything V2 Metric Hypersim Small",
+    "unit": "m (model prediction)",
+    "max_depth_parameter_m": 20,
+    "weights": "E:\\chatgpt\\CIVL7024\\rgbd_odometry_project\\models\\depth_anything_v2_metric\\depth_anything_v2_metric_hypersim_vits.pth",
+    "weights_sha256": "b782898d8a3e8be1f639de33837ed85e9b4b73e40f8f5e5cd99067588d722545",
+    "implementation": "E:\\chatgpt\\CIVL7024\\rgbd_odometry_project\\vendor\\Depth-Anything-V2\\metric_depth\\depth_anything_v2\\dpt.py",
+    "implementation_sha256": "b8cb75891b8161a72d9e51cf95515c709c9d79018b9bdecc6000d01bb0e2b59f",
+    "code_commit": "a561b849ebae10a6f5ef49e26c83cbbcd36c71bf",
+    "model_revision": "3bc65d4e14a6786a61acec16453c50e12bf5f338",
+    "license": "Apache-2.0 (Small model card)",
+    "device": "cuda",
+    "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+    "torch": "2.5.1+cu121",
+    "numpy": "1.26.4",
+    "python": "3.12.14 | packaged by Anaconda, Inc. | (main, Aug 27 2026, 14:37:13) [MSC v.1942 64 bit (AMD64)]"
+  },
+  "results": [
+    {
+      "mode": "clean",
+      "frames": 150,
+      "depth_mae_m": 0.382092531422774,
+      "depth_rmse_m": 0.4392866394631942,
+      "depth_abs_rel": 0.3693574505050977,
+      "depth_delta1": 0.27861637185228205,
+      "mean_infer_ms": 96.00238666753285
+    },
+    {
+      "mode": "low_light",
+      "frames": 150,
+      "depth_mae_m": 0.411571637292703,
+      "depth_rmse_m": 0.4783937255959977,
+      "depth_abs_rel": 0.3996449512243271,
+      "depth_delta1": 0.2540377879328946,
+      "mean_infer_ms": 89.63916199786279
+    },
+    {
+      "mode": "low_light_enhanced",
+      "frames": 150,
+      "depth_mae_m": 0.6306521547834079,
+      "depth_rmse_m": 0.792307552354137,
+      "depth_abs_rel": 0.6039892699817816,
+      "depth_delta1": 0.1754818879503297,
+      "mean_infer_ms": 103.06502933613956
+    },
+    {
+      "mode": "motion_blur",
+      "frames": 150,
+      "depth_mae_m": 0.34030814448992414,
+      "depth_rmse_m": 0.4969486338861394,
+      "depth_abs_rel": 0.29821017786860465,
+      "depth_delta1": 0.4770824514064935,
+      "mean_infer_ms": 86.77974466971743
+    },
+    {
+      "mode": "blur_sharpened",
+      "frames": 150,
+      "depth_mae_m": 0.32627375652392704,
+      "depth_rmse_m": 0.4576611137636292,
+      "depth_abs_rel": 0.3012522105872631,
+      "depth_delta1": 0.47907762198618664,
+      "mean_infer_ms": 101.87187399870406
+    }
+  ]
+}

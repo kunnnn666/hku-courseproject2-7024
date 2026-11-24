@@ -1,0 +1,20 @@
+{
+  "frames_requested": 792,
+  "rgb_depth_max_s": 0.02,
+  "reference_max_s": 0.02,
+  "depth_scale": 5000,
+  "depth_trunc_m": 4,
+  "intrinsics": [
+    525,
+    525,
+    319.5,
+    239.5
+  ],
+  "transform": "T_target_source; T_world_target = T_world_source @ inverse(T_target_source)",
+  "failure_policy": "record unmatched RGB gaps; stop on first odometry failure; no reference substitution",
+  "open3d": "0.19.0",
+  "numpy": "2.5.4",
+  "python": "3.12.14 | packaged by Anaconda, Inc. | (main, Aug 27 2026, 14:37:13) [MSC v.1942 64 bit (AMD64)]",
+  "threads": "4",
+  "requested_available": 792
+}

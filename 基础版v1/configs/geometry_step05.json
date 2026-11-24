@@ -1,0 +1,1 @@
+{"iterations":200,"threshold_m":0.03,"min_inliers":12,"min_fraction":0.25,"depth_range_m":[0.2,5.0],"rpe_dt_s":1.0,"rpe_tolerance_s":0.02}

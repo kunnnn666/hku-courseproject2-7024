@@ -1,0 +1,19 @@
+{
+  "width": 960,
+  "height": 540,
+  "fx": 831.3843876330611,
+  "fy": 831.3843876330611,
+  "cx": 479.5,
+  "cy": 269.5,
+  "distortion": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "calibration_status": "UNCALIBRATED_ASSUMPTION",
+  "horizontal_fov_deg_assumed": 60.0,
+  "source": "No usable focal length or calibration supplied; assumed square pixels and centered principal point, horizontal FOV 60 deg; distortion zero is an uncorrected assumption, NOT a measurement",
+  "limitations": "Cannot claim accurate distance, scale, orientation, or room path; phone lens/crop/stabilization unknown; no test-data selection of intrinsics"
+}

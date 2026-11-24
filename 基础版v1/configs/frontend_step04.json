@@ -1,0 +1,43 @@
+{
+  "pairs": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      0,
+      30
+    ]
+  ],
+  "sigmas": [
+    10,
+    25,
+    50
+  ],
+  "base_seed": 7024,
+  "filter": {
+    "size": 7,
+    "sigma_px": 1
+  },
+  "orb": {
+    "nfeatures": 500,
+    "scaleFactor": 1.2,
+    "nlevels": 8,
+    "edgeThreshold": 31,
+    "firstLevel": 0,
+    "WTA_K": 2,
+    "scoreType": 0,
+    "patchSize": 31,
+    "fastThreshold": 20
+  },
+  "ratio": 0.75,
+  "draw_limit": 40
+}

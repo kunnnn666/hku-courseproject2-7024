@@ -1,0 +1,11 @@
+{
+  "width": 640,
+  "height": 480,
+  "fx": 525.0,
+  "fy": 525.0,
+  "cx": 319.5,
+  "cy": 239.5,
+  "distortion": [0, 0, 0, 0, 0],
+  "source": "TUM pre-registered images: recommended ROS default parameters, no extra undistortion; NOT phone calibration",
+  "calibration_status": "dataset recommended default"
+}

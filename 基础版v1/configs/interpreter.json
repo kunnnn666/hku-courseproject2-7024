@@ -1,0 +1,8 @@
+{
+  "mode": "read_only_shared_existing_venv",
+  "executable": "E:\\chatgpt\\CIVL7024\\rgbd_odometry_project\\.venv_step5\\Scripts\\python.exe",
+  "base_python": "E:\\app\\python\\anaconda\\envs\\modular-scheduling\\python.exe",
+  "installations_this_step": [],
+  "policy": "本项目不修改共享环境；需要新增依赖时先在项目 .venv 隔离。未创建项目 .venv。",
+  "freeze": "requirements-environment-freeze.txt"
+}

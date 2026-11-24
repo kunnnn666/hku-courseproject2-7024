@@ -1,0 +1,11 @@
+{
+  "status": "completed",
+  "frames": 541,
+  "first_timestamp": 0.0,
+  "last_timestamp": 18.0,
+  "wall_seconds": 222.10079219998443,
+  "inference_mean_s": 0.18462659630352285,
+  "inference_p95_s": 0.19140380001044832,
+  "cuda_peak_allocated_bytes": 433970176,
+  "limits": "Framewise metric predictions; no claim of accurate distance, temporal consistency or trajectory. Preview playback is independent of processing speed."
+}

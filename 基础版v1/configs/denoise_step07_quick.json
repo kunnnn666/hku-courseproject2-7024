@@ -1,0 +1,29 @@
+{
+  "data": {
+    "train": "data/manifests/step02/images_train.jsonl",
+    "val": "data/manifests/step02/images_val.jsonl",
+    "roots": "data/manifests/step02/roots_and_cameras.json"
+  },
+  "seed": 7024,
+  "network": {
+    "layers": 7,
+    "hidden": 32,
+    "channels": 3,
+    "kernel": 3,
+    "batch_norm": false
+  },
+  "batch": 8,
+  "patch": 64,
+  "sigma": 25,
+  "lr": 0.001,
+  "layout": "channels_last",
+  "amp": false,
+  "max_seconds": 3600,
+  "reload_atol": 0.000001,
+  "reload_rtol": 0.00001,
+  "selection": "highest mean per-image fixed-patch restored PSNR; ties earliest",
+  "stage": "teaching",
+  "steps": 20,
+  "validation_interval": 10,
+  "save_interval": 10
+}
